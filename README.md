@@ -703,7 +703,7 @@ _Set of components + responsive layout system_
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 - [Tremor](https://github.com/tremorlabs/tremor-raw) - [demo](https://tremor.so/charts) - [docs](https://tremor.so/docs/getting-started/installation) - Open-source components to build charts and dashboards.
 - [untitled-ui-react](https://github.com/untitleduico/react) - [demo](https://www.untitledui.com/react/) - Beautifully crafted collection of components built with React Aria and Tailwind CSS.
-- [WunderUI](https://github.com/wunder-ui/wunderui) - [demo](https://wunderui.com/components) - [docs](https://wunderui.com/introduction) - Design system on Base UI and Tailwind CSS v4 with a matching Figma library and an MCP server for coding agents. 76 components free (MIT), more in Pro.
+- [WunderUI](https://github.com/wunder-ui/wunderui) - [demo](https://wunderui.com/components) - [docs](https://wunderui.com/introduction) - Design system on Base UI and Tailwind CSS v4 with a matching Figma library and an MCP server for coding agents. 83 components free (MIT), more in Core and Pro.
 
 #### Material Design
 
